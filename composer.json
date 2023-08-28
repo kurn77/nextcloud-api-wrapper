@@ -1,5 +1,5 @@
 {
-    "name": "kurn/nextcloud-api-wrapper",
+    "name": "kurn77/nextcloud-api-wrapper",
     "description": "A simple wrapper around nextcloud user provisioning api",
     "keywords": ["nextcloud", "api", "wrapper"],
     "type": "library",
