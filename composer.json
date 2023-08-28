@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.8.0",
+        "guzzlehttp/guzzle": "^7.8",
         "symfony/options-resolver": "^6.3"
     },
     "autoload": {
